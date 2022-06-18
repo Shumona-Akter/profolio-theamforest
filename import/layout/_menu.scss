@@ -1,0 +1,48 @@
+
+#nav_main {
+    padding: 0;
+    position: absolute;
+    width: 100%;
+    left: 0;
+    top: 30px;
+    z-index: 99;
+    .navbar-brand{
+        padding: 0;
+    }
+    ul{
+        li{
+            a{
+                
+                 padding: 10px 20px;
+                 position: relative;
+                 transition: all linear 0.4s;
+                 color: black;
+                 &:hover{
+                     color: $hover;
+                 }
+                 &::after{
+                    position: absolute;
+                    content: '';
+                    width: 0px;
+                    height: 1px;
+                    background-color: black;
+                    left: 20px;
+                    bottom: 0;
+                    &:hover{
+                        width: 15px;
+                        background:#744fa0 ;
+                    }
+                    }
+                 
+            }
+        }
+    }
+    .nav-item{
+        .btn{
+            &:hover{
+                background: $hover-bg;
+                color: $white;
+            }
+        }
+    }
+}

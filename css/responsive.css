@@ -1,0 +1,832 @@
+@media (min-width: 1400px) {
+    #about_part {
+
+        position: relative;
+        padding-top: 230px;
+        padding-bottom: 200px;
+    }
+        #about_part h1 {
+            font-size: 35px;
+        }
+        #about_part h1 span {
+            font-size: 25pxpx;
+        }
+        #about_part p {
+            font-size: 18px;
+            padding-top: 30px;
+            padding-bottom: 10px;
+        }  
+        #about_part p span {
+            font-size: 18px;
+            padding-bottom: 20px;
+        }
+        #about_part .progress_bar {
+            padding-top: 40px;
+          }
+          .circle-chart {
+            width: 150px;
+            height: 150px;
+          }
+          #about_part .progress_bar h1 {
+            font-size: 30px;
+          }
+          #about_part .image {
+            height: 570px;
+          }
+          #service_part .heading h1 {
+            font-size: 30px;
+          }
+          #service_part .heading h1 span {
+            padding-top: 20px;
+            font-size: 20px;
+            padding-bottom: 40px;
+          }
+          #service_part .service .font_logo {
+            font-size: 70px;
+            padding-bottom: 40px;
+          }
+          #service_part .service p {
+            font-size: 14px;
+            padding-bottom: 40px;
+          }
+          #service_part {
+            padding-bottom: 100px;
+          }
+          /* work */
+          #work_part {
+            padding-top: 220px;
+            padding-bottom: 100px;
+          }
+          .heading h1 {
+            font-size: 30px;
+          }
+          .heading h1 span {
+            padding-top: 20px;
+            font-size: 20px;
+          }
+          #work_part .mixitup_button a {
+            font-size: 20px;
+          }
+          /* contact */
+          #contuct_part {
+            padding-top: 200px;
+            padding-bottom: 100px;
+          }
+          #contuct_part .contuct_info .info_flex .icon_box {
+            height: 60px;
+            width: 60px;
+            background: var(--white);
+            text-align: center;
+            line-height: 60px;
+          }
+          #contuct_part .contuct_info .info_flex h1 {
+            font-size: 20px;
+            padding-left: 30px;
+            padding-bottom: 40px;
+          }
+          
+    
+        #contuct_part .contuct_form h2 {
+        font-size: 20px;
+        padding-bottom: 30px;
+        padding-top: 30px;
+    
+        }
+}
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+    #about_part {
+
+        position: relative;
+        padding-top: 230px;
+        padding-bottom: 200px;
+    }
+    
+        #about_part h1 {
+            font-size: 30px;
+        }
+        #about_part h1 span {
+            font-size: 20pxpx;
+        }
+        #about_part p {
+            font-size: 16px;
+            padding-top: 30px;
+            padding-bottom: 10px;
+        }  
+        #about_part p span {
+            font-size: 16px;
+            padding-bottom: 20px;
+        }
+        #about_part .progress_bar {
+            padding-top: 40px;
+          }
+          .circle-chart {
+            width: 150px;
+            height: 150px;
+          }
+          #about_part .progress_bar h1 {
+            font-size: 30px;
+          }
+          #about_part .image {
+            height: 570px;
+          }
+          #service_part .heading h1 {
+            font-size: 30px;
+          }
+          #service_part .heading h1 span {
+            padding-top: 20px;
+            font-size: 20px;
+            padding-bottom: 40px;
+          }
+          #service_part .service .font_logo {
+            font-size: 70px;
+            padding-bottom: 40px;
+          }
+          #service_part .service p {
+            font-size: 14px;
+            padding-bottom: 40px;
+          }
+          #service_part {
+            padding-bottom: 100px;
+          }
+          /* work */
+          #work_part {
+            padding-top: 220px;
+            padding-bottom: 100px;
+          }
+          .heading h1 {
+            font-size: 30px;
+          }
+          .heading h1 span {
+            padding-top: 20px;
+            font-size: 20px;
+          }
+          #work_part .mixitup_button a {
+            font-size: 20px;
+          }
+          /* contact */
+          #contuct_part {
+            padding-top: 200px;
+            padding-bottom: 100px;
+          }
+          #contuct_part .contuct_info .info_flex .icon_box {
+            height: 60px;
+            width: 60px;
+            background: var(--white);
+            text-align: center;
+            line-height: 60px;
+          }
+          #contuct_part .contuct_info .info_flex h1 {
+            font-size: 20px;
+            padding-left: 30px;
+            padding-bottom: 40px;
+          }
+          
+    
+        #contuct_part .contuct_form h2 {
+        font-size: 20px;
+        padding-bottom: 30px;
+        padding-top: 30px;
+    
+        }
+
+}
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    /* ============menu part start ========== */
+     .navbar-brand {
+        width: 90px;
+    }
+     .navbar-brand img{
+        width: 100%;
+    }
+    #main_menu .menu_btn{
+        font-size: 20px;
+        color: #fec600;
+    }
+    #main_menu .navbar-toggler:focus {
+        box-shadow: none;
+    }
+    #main_menu .navbar-nav {
+        gap: 17px;
+    }
+    #main_menu ul li a::after {
+        bottom: -17px;
+    }
+    #main_menu ul li a:hover {
+        color: #fec600 !important;
+    }
+    /* ============menu part end ========== */
+
+    /* about================== */
+
+#about_part {
+
+    position: relative;
+    padding-top: 230px;
+    padding-bottom: 100px;
+}
+    #about_part h1 {
+        font-size: 22px;
+    }
+    #about_part h1 span {
+        font-size: 16px;
+    }
+    #about_part p {
+        font-size: 12px;
+        padding-top: 20px;
+        padding-bottom: 5px;
+    }  
+    #about_part p span {
+        font-size: 12px;
+        padding-bottom: 10px;
+    }
+    #about_part .progress_bar {
+        padding-top: 20px;
+      }
+      .circle-chart {
+        width: 100px;
+        height: 100px;
+      }
+      #about_part .progress_bar h1 {
+        font-size: 20px;
+      }
+      #about_part .image {
+        height: 405px;
+      }
+      #service_part .heading h1 {
+        font-size: 22px;
+      }
+      #service_part .heading h1 span {
+        padding-top: 10px;
+        font-size: 16px;
+        padding-bottom: 30px;
+      }
+      #service_part .service .font_logo {
+        font-size: 50px;
+        padding-bottom: 25px;
+      }
+      #service_part .service p {
+        font-size: 12px;
+        padding-bottom: 20px;
+      }
+      #service_part {
+        padding-bottom: 50px;
+      }
+      /* work */
+      #work_part {
+        padding-top: 100px;
+        padding-bottom: 50px;
+      }
+      .heading h1 {
+        font-size: 22px;
+      }
+      .heading h1 span {
+        padding-top: 10px;
+        font-size: 16px;
+      }
+      #work_part .mixitup_button a {
+        font-size: 16px;
+      }
+      /* contact */
+      #contuct_part {
+        padding-top: 100px;
+        padding-bottom: 50px;
+      }
+      #contuct_part .contuct_info .info_flex .icon_box {
+        height: 50px;
+        width: 50px;
+        background: var(--white);
+        text-align: center;
+        line-height: 50px;
+      }
+      #contuct_part .contuct_info .info_flex h1 {
+        font-size: 18px;
+        padding-left: 25px;
+        padding-bottom: 30px;
+      }
+      
+
+    #contuct_part .contuct_form h2 {
+    font-size: 18px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+  .heading h1{
+    font-family: var(--raleway);
+    color: var(--white);
+    font-size: 16px;
+    text-align: center;
+    text-transform: uppercase;
+    }
+  .heading h1 span{
+      display: block;
+      padding-top: 12px;
+      font-size: 20px;
+      padding-bottom: 50px;
+    }
+    #nav_main .navbar-toggler:focus {
+      box-shadow: none;
+  }
+
+#nav_main .navbar-toggler:focus {
+    box-shadow: none;
+}
+#nav_main .navbar-nav {
+    /* gap: 17px; */
+}
+#nav_main ul li a {
+    text-align: left;
+  }
+  #nav_main .btn:hover{
+      background: none;
+}
+
+#banner_part .shape {
+    display: none;
+}      
+
+/* banner */
+#banner_part {
+    padding-bottom: 200px;
+}
+#banner_part .container h1 {
+    text-align: center;
+    font-size: 30px;
+}
+#about_part {
+    position: relative;
+    padding-top: 100px;
+    padding-bottom: 100px;
+  }
+  /* about */
+  #about_part h1 {
+    padding-left: 5px;
+    font-size: 20px;
+  }
+  #about_part h1 span {
+    font-size: 16px;
+    font-weight: 400;
+    text-transform: capitalize;
+    padding-top: 10px;
+  }
+  #about_part p {
+    padding-left: 5px;
+    font-size: 12px;
+    padding-top: 22px;
+    padding-bottom: 5px;
+  }
+  #about_part p span {
+    font-size: 12px;
+  }
+  #about_part .progress_bar {
+    padding-top: 5px;
+    padding-left: 0;
+  }
+  .circle-chart {
+    width: 50px;
+    height: 50px;
+  }
+  #about_part .progress_bar h1 {
+    font-size: 12px;
+    padding-top: 10px;
+  }
+  #about_part .image {
+    height: 527px;
+  }
+  #about_part .shape {
+      display: none;
+  }
+  #service_part {
+    padding-top: 100px;
+    padding-bottom: 50px;
+      }
+      #service_part .heading h1{
+          font-size: 20px;
+      }
+      #service_part .heading h1 span {
+        padding-top: 10px;
+        font-size: 12px;
+        padding-bottom: 30px;
+      }
+      #service_part .service .font_logo {
+        font-size: 30px;
+        padding-bottom: 15px;
+      }
+      #service_part .service p {
+        font-size: 12px;
+        padding-bottom: 10px;
+      }
+     
+      /* work */
+      #work_part {
+        padding-top: 50px;
+        padding-bottom: 50px;
+      }
+      .heading h1 {
+        font-size: 22px;
+      }
+      .heading h1 span {
+        padding-top: 10px;
+        font-size: 16px;
+      }
+      #work_part .mixitup_button a {
+        font-size: 10px;
+      }
+      #work_part .mixitup_button a {
+        padding: 10px 10px;
+        margin-left: 10px;
+      }
+      /* contact */
+      #work_part .shape {
+          display: none;
+      }
+      #contuct_part {
+        padding-top: 100px;
+        padding-bottom: 50px;
+      }
+      #contuct_part .contuct_info {
+        margin-top: 70px;
+        margin-left: 0;
+      }
+      
+      #contuct_part .contuct_info .info_flex .icon_box {
+        height: 30px;
+        width: 30px;
+        line-height: 30px;
+      }
+      #contuct_part .contuct_info .info_flex h1 {
+        font-size: 14px;
+        padding-left: 15px;
+        padding-bottom: 20px;
+      }
+      #contuct_part .contuct_info .info_flex .logo_icon {
+        color: var(--brand);
+        font-size: 15px;
+        margin-top: 5px;
+      }
+      
+
+    #contuct_part .contuct_form h2 {
+    font-size: 18px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+
+    }
+    footer h1 {
+        font-family: var(--opensans);
+        font-weight: 700;
+        font-size: 20px;
+    }
+    footer {
+        padding: 30px 0;
+    }
+
+}
+@media (min-width: 576px) and (max-width: 767.98px) {
+    .heading h1{
+        font-family: var(--raleway);
+        color: var(--white);
+        font-size: 16px;
+        text-align: center;
+        text-transform: uppercase;
+        }
+      .heading h1 span{
+          display: block;
+          padding-top: 12px;
+          font-size: 20px;
+          padding-bottom: 50px;
+        }
+        #nav_main .navbar-toggler:focus {
+          box-shadow: none;
+      }
+   
+    #nav_main .navbar-toggler:focus {
+        box-shadow: none;
+    }
+    #nav_main .navbar-nav {
+        /* gap: 17px; */
+    }
+    #nav_main ul li a {
+        text-align: left;
+      }
+      #nav_main .btn:hover{
+          background: none;
+    }
+  
+    #banner_part .shape {
+        display: none;
+    }      
+
+    /* banner */
+    #banner_part {
+        padding-bottom: 200px;
+    }
+    #banner_part .container h1 {
+        text-align: center;
+        font-size: 30px;
+    }
+    #about_part {
+        position: relative;
+        padding-top: 100px;
+        padding-bottom: 100px;
+      }
+      /* about */
+      #about_part h1 {
+        padding-left: 5px;
+        font-size: 20px;
+      }
+      #about_part h1 span {
+        font-size: 16px;
+        font-weight: 400;
+        text-transform: capitalize;
+        padding-top: 10px;
+      }
+      #about_part p {
+        padding-left: 5px;
+        font-size: 12px;
+        padding-top: 22px;
+        padding-bottom: 5px;
+      }
+      #about_part p span {
+        font-size: 12px;
+      }
+      #about_part .progress_bar {
+        padding-top: 5px;
+        padding-left: 0;
+      }
+      .circle-chart {
+        width: 50px;
+        height: 50px;
+      }
+      #about_part .progress_bar h1 {
+        font-size: 12px;
+        padding-top: 10px;
+      }
+      #about_part .image {
+        height: 527px;
+      }
+      #about_part .shape {
+          display: none;
+      }
+      #service_part {
+        padding-top: 100px;
+        padding-bottom: 50px;
+          }
+          #service_part .heading h1{
+              font-size: 20px;
+          }
+          #service_part .heading h1 span {
+            padding-top: 10px;
+            font-size: 12px;
+            padding-bottom: 30px;
+          }
+          #service_part .service .font_logo {
+            font-size: 30px;
+            padding-bottom: 15px;
+          }
+          #service_part .service p {
+            font-size: 12px;
+            padding-bottom: 10px;
+          }
+         
+          /* work */
+          #work_part {
+            padding-top: 50px;
+            padding-bottom: 50px;
+          }
+          .heading h1 {
+            font-size: 22px;
+          }
+          .heading h1 span {
+            padding-top: 10px;
+            font-size: 16px;
+          }
+          #work_part .mixitup_button a {
+            font-size: 10px;
+          }
+          #work_part .mixitup_button a {
+            padding: 10px 10px;
+            margin-left: 10px;
+          }
+          /* contact */
+          #work_part .shape {
+              display: none;
+          }
+          #contuct_part {
+            padding-top: 100px;
+            padding-bottom: 50px;
+          }
+          #contuct_part .contuct_info {
+            margin-top: 70px;
+            margin-left: 0;
+          }
+          
+          #contuct_part .contuct_info .info_flex .icon_box {
+            height: 30px;
+            width: 30px;
+            line-height: 30px;
+          }
+          #contuct_part .contuct_info .info_flex h1 {
+            font-size: 14px;
+            padding-left: 15px;
+            padding-bottom: 20px;
+          }
+          #contuct_part .contuct_info .info_flex .logo_icon {
+            color: var(--brand);
+            font-size: 15px;
+            margin-top: 5px;
+          }
+          
+    
+        #contuct_part .contuct_form h2 {
+        font-size: 18px;
+        padding-bottom: 20px;
+        padding-top: 20px;
+    
+        }
+        footer h1 {
+            font-family: var(--opensans);
+            font-weight: 700;
+            font-size: 20px;
+        }
+        footer {
+            padding: 30px 0;
+        }
+    
+}
+@media (max-width: 575.98px) {
+    .heading h1{
+        font-family: var(--raleway);
+        color: var(--white);
+        font-size: 16px;
+        text-align: center;
+        text-transform: uppercase;
+        }
+      .heading h1 span{
+          display: block;
+          padding-top: 12px;
+          font-size: 20px;
+          padding-bottom: 50px;
+        }
+   
+    #nav_main .navbar-toggler:focus {
+        box-shadow: none;
+    }
+    #nav_main .navbar-nav {
+        /* gap: 17px; */
+    }
+    #nav_main ul li a {
+        text-align: left;
+      }
+      #nav_main .btn:hover{
+          background: none;
+    }
+  
+    #banner_part .shape {
+        display: none;
+    }      
+
+    /* banner */
+    #banner_part {
+        padding-bottom: 200px;
+    }
+    #banner_part .container h1 {
+        text-align: center;
+        font-size: 30px;
+    }
+    #about_part {
+        position: relative;
+        padding-top: 100px;
+        padding-bottom: 100px;
+      }
+      /* about */
+      #about_part h1 {
+        padding-left: 5px;
+        font-size: 20px;
+      }
+      #about_part h1 span {
+        font-size: 16px;
+        font-weight: 400;
+        text-transform: capitalize;
+        padding-top: 10px;
+      }
+      #about_part p {
+        padding-left: 5px;
+        font-size: 12px;
+        padding-top: 22px;
+        padding-bottom: 5px;
+      }
+      #about_part p span {
+        font-size: 12px;
+      }
+      #about_part .progress_bar {
+        padding-top: 5px;
+        padding-left: 60px;
+      }
+      .circle-chart {
+        width: 150px;
+        height: 150px;
+      }
+      #about_part .progress_bar h1 {
+        font-size: 20px;
+        padding-top: 10px;
+      }
+      #about_part .image {
+        height: 527px;
+      }
+      #about_part .shape {
+          display: none;
+      }
+      #service_part {
+        padding-top: 100px;
+        padding-bottom: 50px;
+          }
+          #service_part .heading h1{
+              font-size: 20px;
+          }
+          #service_part .heading h1 span {
+            padding-top: 10px;
+            font-size: 12px;
+            padding-bottom: 30px;
+          }
+          #service_part .service .font_logo {
+            font-size: 30px;
+            padding-bottom: 15px;
+          }
+          #service_part .service p {
+            font-size: 12px;
+            padding-bottom: 10px;
+          }
+          #service_part .shape {
+              display: none;
+          }
+         
+          /* work */
+          #work_part {
+            padding-top: 50px;
+            padding-bottom: 50px;
+          }
+          .heading h1 {
+            font-size: 22px;
+          }
+          .heading h1 span {
+            padding-top: 10px;
+            font-size: 16px;
+          }
+          #work_part .mixitup_button a {
+            font-size: 10px;
+          }
+          #work_part .mixitup_button a {
+            padding: 10px 10px;
+            margin-left: 10px;
+          }
+          /* contact */
+          #work_part .shape {
+              display: none;
+          }
+          #contuct_part {
+            padding-top: 100px;
+            padding-bottom: 50px;
+          }
+          #contuct_part .contuct_info {
+            margin-top: 70px;
+            margin-left: 0;
+          }
+          
+          #contuct_part .contuct_info .info_flex .icon_box {
+            height: 30px;
+            width: 30px;
+            line-height: 30px;
+          }
+          #contuct_part .contuct_info .info_flex h1 {
+            font-size: 14px;
+            padding-left: 15px;
+            padding-bottom: 20px;
+          }
+          #contuct_part .contuct_info .info_flex .logo_icon {
+            color: var(--brand);
+            font-size: 15px;
+            margin-top: 5px;
+          }
+          
+    
+        #contuct_part .contuct_form h2 {
+        font-size: 18px;
+        padding-bottom: 20px;
+        padding-top: 20px;
+    
+        }
+        footer h1 {
+            font-family: var(--opensans);
+            font-weight: 700;
+            font-size: 20px;
+        }
+        footer {
+            padding: 30px 0;
+        }
+    
+}
+  
